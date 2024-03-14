@@ -13,7 +13,7 @@ Use this section to tell people about which versions of your project are current
 We take the security of our project seriously. If you have discovered or suspect a security issue within our project, we kindly ask you to disclose it responsibly. Please follow the steps outlined below:
 
 1. **Do not report security vulnerabilities through public GitHub issues.**
-2. Email us directly at [security@example.com](mailto:security@example.com) with the details of the vulnerability. The project team acknowledges receipt of your vulnerability report within 24 hours.
+2. Email us directly at [chrisdipesa@cloudtechpro.co](mailto:chrisdipesa@cloudtechpro.co) with the details of the vulnerability. The project team acknowledges receipt of your vulnerability report within 24 hours.
 3. Provide us a reasonable amount of time to fix the vulnerability before any public disclosure. The project team will work with you to assess and understand the scope of the issue and its potential impact.
 4. We'll notify you when the vulnerability has been addressed, and you may agree on a date and time for the public announcement. We appreciate your help in responsibly investigating and reporting security vulnerabilities in our project.
 
