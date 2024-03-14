@@ -1,0 +1,113 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually used for freezing Python applications into stand-alone executables,
+# similar to how .exe files work on Windows. If you're using this, uncomment the next line.
+# dist/
+
+# pytest cache
+.cache
+.pytest_cache/
+
+# pyenv local virtual environment
+.python-version
+
+# virtualenv
+venv/
+ENV/
+env/
+bin/
+Scripts/
+pyvenv.cfg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pycharm
+.idea/
+*.iml
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+dmypy.json
+dmypy.json.5
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.coverage.xml
+*.cover
+*.py,cover
+.coverage.json
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Database files
+*.db
+*.sql
+*.sqlite
+*.sqlite3
+
+# Key files and certificates
+*.pem
+*.key
+*.cert
+*.jks
+*.keystore
+
+# Other sensitive files
+# Add any other file extensions or paths containing sensitive information, such as:
+*.secret
+secret_file.txt
+config/production.json
+1
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
