@@ -47,3 +47,19 @@ Manual instrumentation allows you to add custom tags and metrics to your traces,
 
 This example provides a foundation for manually instrumenting Python functions in a Modal app with ddtrace, enabling you to leverage Datadog's APM features for monitoring and optimizing your cloud functions.
 
+## Contribution Guidelines
+1. Fork the repository and create a new feature branch.
+2. Follow best practice python coding and security standards.
+3. Submit a pull request and request a review from a maintainer.
+
+## Code of Conduct
+All contributors must:
+- Be respectful and inclusive.
+- Avoid harassment or discriminatory behavior.
+- Follow GitHub’s Community Guidelines.
+
+## Governance Model
+- The project is maintained by a core team of maintainers.
+- Major decisions require consensus among maintainers.
+- Security vulnerabilities are addressed privately before public disclosure.
+
